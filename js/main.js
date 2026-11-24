@@ -6,3 +6,4 @@ const photos = createPhotos();
 
 renderPhotos(photos);
 initBigPicture(photos);
+import './form.js';
